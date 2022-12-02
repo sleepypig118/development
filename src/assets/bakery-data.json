@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "description": "Four classic chocolate chip cookies",
+    "price": 7.99,
+    "image": "images/anika.png",
+    "calories": 400,
+    "categories": {
+      "type": "pastry",
+      "restrictions": ["nut-free", "dairy-free"]
+    }
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+    "price": 4.89,
+    "image": "images/aubrey.png",
+    "calories": 600,
+    "categories": {
+      "type": "cake",
+      "restrictions": ["nut-free", "gluten-free"]
+    }
+  },
+  {
+    "name": "Egg Custard Bun",
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 2.99,
+    "image": "images/connie.png",
+    "calories": 500,
+    "categories": {
+      "type": "pastry",
+      "restrictions": ["nut-free"]
+    }
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "description": "Two soft steamed buns filled with gooey purple taro filling",
+    "price": 5.99,
+    "image": "images/dylan.png",
+    "calories": 450,
+    "categories": {
+      "type": "pastry",
+      "restrictions": ["nut-free", "dairy-free", "gluten-free"]
+    }
+  },
+  {
+    "name": "Macarons",
+    "description": "A box of three macarons in assorted flavors",
+    "price": 4.99,
+    "image": "images/jeff.png",
+    "calories": 300,
+    "categories": {
+      "type": "cake",
+      "restrictions": ["nut-free", "gluten-free"]
+    }
+  },
+  {
+    "name": "Multigrain Bread",
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 4.79,
+    "image": "images/jenny.png",
+    "calories": 200,
+    "categories": {
+      "type": "bread",
+      "restrictions": ["dairy-free"]
+    }
+  },
+  {
+    "name": "Croissant",
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 2.99,
+    "image": "images/jessie.png",
+    "calories": 250,
+    "categories": {
+      "type": "pastry",
+      "restrictions": ["nut-free", "dairy-free"]
+    }
+  },
+  {
+    "name": "Toast with Butter",
+    "description": "A slice of toast with a pat of butter",
+    "price": 1.99,
+    "image": "images/kelly.png",
+    "calories": 300,
+    "categories": {
+      "type": "bread",
+      "restrictions": ["gluten-free"]
+    }
+  },
+  {
+    "name": "Egg Tart Cake",
+    "description": "A flaky pastry shell filled with a sweet egg custard",
+    "price": 2.69,
+    "image": "images/melissa.png",
+    "calories": 450,
+    "categories": {
+      "type": "cake",
+      "restrictions": ["nut-free"]
+    }
+  },
+  {
+    "name": "Everything Bagel",
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+    "price": 2.39,
+    "image": "images/miku.png",
+    "calories": 220,
+    "categories": {
+      "type": "bread",
+      "restrictions": ["dairy-free"]
+    }
+  },
+  {
+    "name": "Gingerbread Man",
+    "description": "A soft gingerbread cookie with a sweet icing glaze",
+    "price": 2.89,
+    "image": "images/nick.png",
+    "calories": 410,
+    "categories": {
+      "type": "cake",
+      "restrictions": ["nut-free", "gluten-free"]
+    }
+  },
+  {
+    "name": "Cheesecake",
+    "description": "A slice of classic New York cheesecake topped with strawberry",
+    "price": 3.99,
+    "image": "images/sunny.png",
+    "calories": 600,
+    "categories": {
+      "type": "cake",
+      "restrictions": ["nut-free", "gluten-free"]
+    }
+  }
+]
