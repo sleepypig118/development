@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.main-grid {
+  display: grid;
+  align-items: start;
+  grid-template-columns: 1fr 4fr;
+  margin-right: 30px;
+}
+
+.bakery-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+/* .bakery-items>* {
+  flex: 0 0 33.3333%;
+} */
