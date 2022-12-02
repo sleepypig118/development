@@ -1,0 +1,17 @@
+
+.bakery-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15rem;
+    margin: 0 1rem 1rem 1rem;
+}
+
+img {
+    width: 12rem;
+    height: 12rem;
+}
+
+.bakery-item-description {
+    font-size: 0.8rem;
+}
